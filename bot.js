@@ -1,4 +1,4 @@
-﻿const Discord = require('discord.js');
+const Discord = require('discord.js');
 const client = new Discord.Client();
 console.log("Scrpit By Dream");
 
@@ -10,7 +10,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("558998994492194846")
+let channel =     client.channels.get("559424491545952352")
 setInterval(function() {
 channel.send(**Liox spam , Liox spam , Liox spam , Liox spam Liox spamLiox spamLiox spamLiox spamLiox spamLiox spamLiox spamLiox spamLiox spamLiox spam , Liox spam , Liox spam , Liox spam , Liox spam , Liox spam , Liox spam , Liox spam , Liox spam , Liox spam , Liox spam , Lioxspam , Liox, Liox,Liox** ,);
 }, 30)
